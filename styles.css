@@ -16,7 +16,7 @@ body{
 	
 }
 li:nth-child(2n){
-	background-color: grey;
+	background-color: rgb(112, 128, 144);
 }
 li:nth-child(3n){
 	background-color: pink;
