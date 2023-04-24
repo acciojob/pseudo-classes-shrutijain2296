@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body{
+	background-color: skyblue;
+}
+.para1{
+	color: white;
+	background-color: black;
+	top: 0px;
+}
+.para3{
+	color: red;
+}
+.list{
+	height: 100px;
+	width: 300px;
+	
+}
+li:nth-child(2n){
+	background-color: grey;
+}
+li:nth-child(3n){
+	background-color: pink;
+}
+li:first-child, li:last-child{
+	background-color: white;
+}
