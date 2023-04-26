@@ -24,3 +24,6 @@ li:nth-child(3n){
 li:first-child, li:last-child{
 	background-color: white;
 }
+.list li{
+	padding: 5px;
+}
